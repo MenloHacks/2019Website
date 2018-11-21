@@ -1,0 +1,55 @@
+
+
+
+
+#header {
+    background-image: url("../../images/menlo.jpg");
+}
+
+/* FAQ */
+
+#FAQ h2
+{
+    text-align: center;
+}
+
+/* Schedule */
+.col-wrapper
+{
+    height: 300px;
+    color: #7d5ba6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:  #7d5ba6;
+
+}
+
+@media screen and (min-width: 340px) {
+    .schedule-item p {
+        display: inline-block;
+    }
+}
+
+
+.schedule-item {
+    text-align: left;
+    margin-top: 0.5em;
+}
+
+.schedule-note {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 1.5em;
+}
+
+.schedule-day {
+    text-align: center;
+    color: white;
+}
+
+.time {
+    color: #7d5ba6 !important;
+    width: 50%;
+}
