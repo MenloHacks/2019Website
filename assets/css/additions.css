@@ -3,7 +3,7 @@
 
 
 #header {
-    background-image: url("../../images/menlo.jpg");
+    background-image: url("../../images/background.jpg");
 }
 
 /* FAQ */
@@ -52,4 +52,18 @@ h1, h2, h3, h4, h5, h6 {
 .time {
     color: #7d5ba6 !important;
     width: 50%;
+}
+
+nav {
+    display: none;
+}
+
+nav#nav {
+    display: block;
+}
+
+#history-p {
+    padding: 3em 0 1em 0;
+    margin: 0 auto;
+    width: 35em;
 }
