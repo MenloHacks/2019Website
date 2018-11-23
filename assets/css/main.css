@@ -640,9 +640,10 @@ input, select, textarea {
 		padding: 6em 0 6em 0;
 	}
 
-		.wrapper.style2 {
+		 .wrapper.style2 {
 			padding-top: 0;
 		}
+		
 	.wrapper h2, h3
 	{
 		text-align: center;
@@ -657,6 +658,8 @@ input, select, textarea {
 		.question p
 		{
 			text-align: left;
+			line-height: 20px;
+			
 		}
 
 /* Header */
@@ -1209,6 +1212,11 @@ input, select, textarea {
 #features
 {
 	padding-top: 16px;
+}
+
+#features .inner 
+{
+	line-height: 20px;
 }
 /* Footer */
 
