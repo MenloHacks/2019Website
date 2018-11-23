@@ -658,7 +658,7 @@ input, select, textarea {
 		.question p
 		{
 			text-align: left;
-			line-height: 20px;
+			line-height: 40px;
 			
 		}
 
@@ -1216,7 +1216,7 @@ input, select, textarea {
 
 #features .inner 
 {
-	line-height: 20px;
+	line-height: 30px;
 }
 /* Footer */
 
@@ -1233,8 +1233,8 @@ input, select, textarea {
 	{
 		display: block;
 		margin-bottom: 1em;
-    	margin-left: auto;
-    	margin-right: auto;
+    		margin-left: auto;
+    		margin-right: auto;
 	}
 
 		#footer .icon.circled {
