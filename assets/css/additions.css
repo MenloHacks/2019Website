@@ -67,3 +67,30 @@ nav#nav {
     margin: 0 auto;
     width: 35em;
 }
+
+@media screen and (max-width: 980px) {
+    .question article {
+        width: 100%;
+    }
+    .col-md-6 {
+        width: 100%;
+    }
+    #schedule {
+        height: 700px;
+    }
+    .wrapper:before {
+        top: -4.75em;
+    }
+    .wrapper:before, .wrapper:after {
+        height: 4.91em;
+    }
+
+}
+
+.question {
+    color: #7d5ba6;
+}
+
+p, li {
+    font-size: 18px;
+}
