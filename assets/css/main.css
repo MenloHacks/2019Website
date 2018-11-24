@@ -1011,6 +1011,7 @@ input, select, textarea {
 
 			.wrapper {
 				margin: 2.5em 0;
+				font-size: 16px; 
 			}
 
 				.wrapper:before, .wrapper:after {
@@ -1137,7 +1138,7 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 0 2em 0;
-		color: white;
+		color: mediumpurple;
 
 	}
 
@@ -1202,7 +1203,7 @@ input, select, textarea {
 
 				.question article {
 					width: 100%;
-					margin: 0 0 2em 0 !important;
+					margin: 1em 0 2em 0 !important;
 				}
 
 		}
