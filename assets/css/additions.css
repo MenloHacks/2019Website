@@ -102,3 +102,77 @@ nav#nav {
 header > p {
     margin: 1em 0 1em 0;
 }
+
+@media screen and (max-width: 32em) {
+    .bronze-sponsor {
+        max-width: 50%;
+    }
+    .silver-sponsor {
+        max-width: 60%;
+    }
+    .gold-sponsor {
+        max-width: 70%;
+    }
+    #google {
+        max-width: 47%;
+    }
+}
+
+@media screen and (min-width:32em) {
+    .bronze-sponsor {
+        max-width: 20em;
+    }
+    .silver-sponsor {
+        max-width: 26em;
+    }
+    .gold-sponsor {
+        max-width: 30em;
+    }
+    #google {
+        max-width: 19em;
+    }
+}
+
+
+.bronze-sponsor {
+    max-height: 5em;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+    vertical-align: middle;
+    margin-bottom: 2em;
+}
+
+.silver-sponsor {
+    max-height: 8em;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+    vertical-align: middle;
+    margin-bottom: 2em;
+
+}
+
+.gold-sponsor {
+    max-height: 9em;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+    vertical-align: middle;
+    margin-bottom: 5em;
+
+}
+#google {
+    margin-top: 5em;
+}
+
+.sponsor-wrapper {
+    display:block;
+    text-align: center;
+}
+
+.sponsor-wrapper a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.sponsor-wrapper img {
+    display: inline-block;
+}
