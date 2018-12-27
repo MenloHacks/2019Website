@@ -93,6 +93,7 @@ nav#nav {
         width: 30em;
     }
 
+
 }
 
 .question {
@@ -175,4 +176,16 @@ header > p {
 
 .sponsor-wrapper img {
     display: inline-block;
+}
+
+header > p {
+    font-size: 1.25em;
+    text-align: left;
+}
+
+#features p {
+    line-height: 40px;
+}
+#wrapper p {
+    text-align: left;
 }
