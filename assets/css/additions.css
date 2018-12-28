@@ -189,3 +189,7 @@ header > p {
 #wrapper p {
     text-align: left;
 }
+
+#date {
+    text-align: center;
+}
