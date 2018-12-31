@@ -193,3 +193,21 @@ header > p {
 #date {
     text-align: center;
 }
+
+#mlh-trust-badge {
+    display: inline-block;
+    max-width: 100px;
+    min-width: 60px;
+    top: 0;
+    width: 10vw;
+    z-index: 10000;
+    padding: 0em;
+    margin-right: 50px;
+    border-bottom: none;
+}
+
+#nav li {
+    vertical-align: top;
+    font-size: 1.5em;
+    margin: 0 !important;
+}
