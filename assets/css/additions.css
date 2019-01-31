@@ -114,8 +114,8 @@ header > p {
     .gold-sponsor {
         max-width: 70%;
     }
-    #google {
-        max-width: 47%;
+    .platinum-sponsor {
+        max-width: 85%;
     }
 }
 
@@ -129,8 +129,8 @@ header > p {
     .gold-sponsor {
         max-width: 30em;
     }
-    #google {
-        max-width: 19em;
+    .platinum-sponsor {
+        max-width: 40em;
     }
 }
 
@@ -158,6 +158,17 @@ header > p {
     margin-right: 3.5em;
     vertical-align: middle;
     margin-bottom: 5em;
+
+}
+
+.platinum-sponsor {
+    max-height: 25em;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+    vertical-align: middle;
+    margin-bottom: 4em;
+    width: 200%;
+    height: auto;
 
 }
 #google {
@@ -191,6 +202,11 @@ header > p {
 }
 
 #date {
+    text-align: center;
+    font-size: 1.75em !important;
+}
+
+#platinum-banner {
     text-align: center;
 }
 
