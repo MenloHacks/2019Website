@@ -270,18 +270,18 @@ header > p {
 }
 
 @media screen and (min-width: 768px) {
-.large-button {
-    width: 25%;
-    min-width: 125px;
-    max-width: 150px;
-}
+    .large-button {
+        width: 25%;
+        min-width: 125px;
+        max-width: 150px;
+    }
 }
 
 @media only screen and (max-width: 767px) and (orientation: portrait), only screen and (min-width: 768px) {
-.large-button {
-    margin-bottom: 30px;
-    font-size: 1.2em;
-    padding: 0.3em;
-}
+    .large-button {
+        margin-bottom: 30px;
+        font-size: 1.2em;
+        padding: 0.3em;
+    }
 }
 
