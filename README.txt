@@ -3,7 +3,7 @@
 
 Created by Mitsuka Kiyohara (freshman, 2022) and Thomas Woodside (senior, 2019)
 
-This website was created based off a template called Helios by HTML5 UP.
+This website was created based on a template called Helios by HTML5 UP.
 
 To check out the website, go to https://menlohacks.com
 Interested about this year's projects?
